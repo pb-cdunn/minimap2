@@ -1,7 +1,7 @@
 project(
   'minimap2',
   'c',
-  version : '2.13',
+  version : '2.13.1',
   default_options : [
     'buildtype=release',
     'warning_level=3',
